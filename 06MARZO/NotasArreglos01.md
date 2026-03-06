@@ -19,3 +19,8 @@
 
 -Las imagenes son matrices que se representan como RGB que utilizan arreglos tridimensionales
 
+
+-Los arreglos de caracteres se les llama strings y agrega siempre un espacio extra que dictamina el fin del string \n
+
+
+-Cuando trabajamos con arreglos de distintas dimensiones se piensan como un plano cartesiano donde cada cordenada guarda el valor 
