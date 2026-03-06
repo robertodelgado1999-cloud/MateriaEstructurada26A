@@ -1,4 +1,4 @@
-Cada flotante tiene 4 Bytes de tamaño
+#Cada flotante tiene 4 Bytes de tamaño
 
 
 Array: Conjunto de datos de un mismo tipo de datos.
